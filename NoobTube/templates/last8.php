@@ -1,0 +1,5 @@
+<div style="font-size: 12px; font-weight: bold; margin-bottom: 5px;"><a href="profile.php?user=StevePax">StevePax</a></div>
+
+					<div style="font-size: 12px; margin-bottom: 8px; padding-bottom: 10px; border-bottom: 1px dashed #CCCC66;"><a href="profile_videos.php?user=StevePax"><img src="img/icon_vid.gif" alt="Videos" width="14" height="14" border="0" style="vertical-align: text-bottom; padding-left: 2px; padding-right: 1px;"></a> (<a href="profile_videos.php?user=StevePax">2</a>)
+					 | <a href="profile_favorites.php?user=StevePax"><img src="img/icon_fav.gif" alt="Favorites" width="14" height="14" border="0" style="vertical-align: text-bottom; padding-left: 2px; padding-right: 1px;"></a> (<a href="profile_favorites.php?user=StevePax">0</a>)
+					 | <a href="profile_friends.php?user=StevePax"><img src="img/icon_friends.gif" alt="Friends" width="14" height="14" border="0" style="vertical-align: text-bottom; padding-left: 2px; padding-right: 1px;"></a> (<a href="profile_friends.php?user=StevePax">0</a>)</div>
