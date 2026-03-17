@@ -36,7 +36,7 @@ else {
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 	<link rel="alternate" type="application/rss+xml" title="YouTube - Recently Added Videos [RSS]" href="https://web.archive.org/web/20051105135753/http://www.youtube.com/rss/global/recently_added.rss">
-			<script type="text/javascript" src="/wflashobject.js"></script>
+			<script type="text/javascript" src="js/floshobject.js"></script>
 		<script type="text/javascript" src="js/components.js"></script>
 		<script type="text/javascript" src="js/AJAX.js"></script>
 
